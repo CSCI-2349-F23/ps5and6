@@ -62,6 +62,7 @@ ps6.ipynb
 README
 ```
 Note: If you chose to do only one of the two problem sets, you can just delete that notebook from the directory.
+
 3. Tar and zip up the directory, calling it `ps6.tgz`.
 4. Upload that file to Canvas.
 
