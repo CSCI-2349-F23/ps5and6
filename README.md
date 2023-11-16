@@ -6,7 +6,7 @@ In Problem Set 6, using the same data, we will build word2vec models, compare th
 
 Remember that I drop your lowest problem set score! If you've done well on the first four problem sets, you can skip either PS5 or PS6 and have the one you skip be the one I drop.
 
-Both problem sets are due Monday, November 27, at 11:59pm EST.Exact requirements for submission can be found at the end of each problem set page, linked below.
+Both problem sets are due Monday, November 27, at 11:59pm EST. Exact requirements for submission can be found at the end of this page.
 
 ## Preparing the data for both problem sets
 You will need to get some data that you'll use for both PS5 and PS6. You will complete this step once and use the data for both problem sets, which are linked to below.
