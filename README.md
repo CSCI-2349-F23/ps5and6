@@ -48,7 +48,7 @@ To complete PS5, launch Jupyter notebook and open ps5.ipynb. You should do this 
 ---
 
 ## Problem Set 6
-You will complete PS6 on Google Colab. Follow this link, and then follow the directions to make your own copy of the file in your Google Drive. Then continue to follow the directions and complete the 
+You will complete PS6 on Google Colab. [Follow this link](https://colab.research.google.com/drive/15bNO-v_zua-4rbhqOv2yNt-9gBXeUDaL?usp=sharing) to a Colab file, and then follow the directions in the Colab file to make your own copy of the file in your Google Drive. Then continue to follow the directions and complete the assignment.
 
 ---
 
