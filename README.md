@@ -40,16 +40,17 @@ Ansell%27s_shrew.txt
 Anthicus_sacramento.txt
 ```
 
---
+---
 
 ## Problem Set 5
 To complete PS5, launch Jupyter notebook and open ps5.ipynb. You should do this on your own machine. Follow the [directions in PS4 for making sure you have all right libraries installed](https://github.com/CSCI-2349-F23/ps4#part-0-installing-libraries). You will complete the problem set in the notebook.
 
---
+---
+
 ## Problem Set 6
 You will complete PS6 on Google Colab. Follow this link, and then follow the directions to make your own copy of the file in your Google Drive. Then continue to follow the directions and complete the 
 
---
+---
 
 ## What to submit
 1. Download your completed ps6.ipynb from Colab to this directory.
