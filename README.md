@@ -50,7 +50,7 @@ Anthicus_sacramento.txt
 ---
 
 ## Problem Set 5
-To complete PS5, launch Jupyter notebook and open ps5.ipynb. You should do this on your own machine. Follow the [directions in PS4 for making sure you have all right libraries installed](https://github.com/CSCI-2349-F23/ps4#part-0-installing-libraries). You will complete the problem set in the notebook.
+To complete PS5, launch Jupyter notebook and open ps5.ipynb. You should do this on your own machine. If you skipped PS4, go back and follow the [directions in PS4 for making sure you have all right libraries installed](https://github.com/CSCI-2349-F23/ps4#part-0-installing-libraries). You will complete the problem set in the notebook.
 
 ---
 
