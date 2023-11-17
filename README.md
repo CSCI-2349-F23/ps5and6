@@ -21,7 +21,8 @@ Here's what my directory structure looks like after I run my version of the scri
 
 ```
 emilypx@Yodi ps5and6 % ls
-Endangered_animals      get_text.py             ps5.ipynb             ps6.ipynb        README
+Endangered_animals	allcontempo.txt		ps5.ipynb
+all19thcent.txt		  get_text.py       README
 ```
 
 And here's what it looks like when I `ls` the `Endangered_animals` directory:
