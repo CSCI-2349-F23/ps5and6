@@ -2,7 +2,7 @@
 
 In Problem Set 5 we will be exploring n-grams, collocations, and a new measure of word importance, TF-IDF.
 
-In Problem Set 6, using the same data, we will build word2vec models, compare those models to a large word2vec model, and explore using sentence embeddings.
+In Problem Set 6, using some of the same data, we will build word2vec models, compare those models to a large word2vec model, and explore using sentence embeddings.
 
 Remember that I drop your lowest problem set score! If you've done well on the first four problem sets, you can skip either PS5 or PS6 and have the one you skip be the one I drop.
 
