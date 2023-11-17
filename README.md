@@ -20,9 +20,13 @@ Call your script `get_text.py` and place it in this directory. Then run it on **
 Here's what my directory structure looks like after I run my version of the script on the [Endangered Animals category page](https://en.wikipedia.org/wiki/Category:Endangered_animals).
 
 ```
-emilypx@Yodi ps5and6 % ls
-Endangered_animals  allcontempo.txt  ps5.ipynb
-all19thcent.txt  get_text.py  README
+emilypx@Yodi ps5and6 % ls -1
+Endangered_animals
+README
+all19thcent.txt
+allcontempo.txt
+get_text.py
+ps5.ipynb
 ```
 
 And here's what it looks like when I `ls` the `Endangered_animals` directory:
