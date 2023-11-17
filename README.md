@@ -13,9 +13,11 @@ You will need to get some data that you'll use for both PS5 and PS6. You will co
 
 For problem set 4, you [wrote a nice Python script](https://github.com/CSCI-2349-F23/ps4#part-2-getting-the-text-for-a-particular-category-page) that got all the pages on a Wikipedia category page and saved the text on each page to a string in a list of strings, removing stuff in brackets and replacing all new lines with space.
 
-For PS5 and PS6, you will rewrite your script so that instead of saving each page's text to a string in a list of strings, it **writes each page's text to a separate `.txt` file whose name corresponds to the title of that page**. All `.txt` files for a particular category will be stored in a directory whose name corresponds to the title of that category. You can create that directory manually before you run your script, or you can include it in your script.
+For PS5 and PS6, you will rewrite your script so that instead of saving each page's text to a string in a list of strings, it **writes each page's text to a separate `.txt` file whose name corresponds to the title of that page**. All `.txt` files for a particular category will be stored in a directory whose name corresponds to the title of that category. You can create that directory manually before you run your script, or you can include code for creating that directory in your script.
 
-Call your script `get_text.py` and place it in this directory. Then run it on **two of the three Wikipeda category pages** you used for PS4. If you did not successfully complete PS4, you can use the code I provide in the solution, which is found attached the Assignment in Canvas for PS4.
+Call your script `get_text.py` and place it in this directory. Then run it on **one of the three Wikipeda category pages** you used for PS4. Pick a category with **at least 50 pages** and with **articles that are long**. Make sure to use **real Wikipedia** and not simplified Wikipedia.
+
+If you did not successfully complete PS4, you can use the code I provide in the solution, which is found attached the Assignment in Canvas for PS4. Keep in mind that you will have to edit it to create text files rather than saving the text to a list of strings.
 
 Here's what my directory structure looks like after I run my version of the script on the [Endangered Animals category page](https://en.wikipedia.org/wiki/Category:Endangered_animals).
 
@@ -59,8 +61,10 @@ You will complete PS6 on Google Colab. [Follow this link](https://colab.research
 
 ## What to submit
 1. Download your completed ps6.ipynb from Colab to this directory.
-2. Make sure you have these items in this directory *plus* your two directories full of Wikipedia text that you created in Step 1, above.
+2. Make sure you have these items in this directory *plus* your directory full of Wikipedia text that you created in Step 1, above.
 ```
+allcontempo.txt
+all19thcent.txt.
 get_text.py
 ps5.ipynb
 ps6.ipynb
