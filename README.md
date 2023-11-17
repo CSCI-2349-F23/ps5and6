@@ -50,17 +50,17 @@ Anthicus_sacramento.txt
 ---
 
 ## Problem Set 5
-To complete PS5, launch Jupyter notebook and open ps5.ipynb. You should do this on your own machine. If you skipped PS4, go back and follow the [directions in PS4 for making sure you have all right libraries installed](https://github.com/CSCI-2349-F23/ps4#part-0-installing-libraries). You will complete the problem set in the notebook.
+To complete PS5, launch Jupyter notebook and open `ps5.ipynb`. You should do this on your own machine. If you skipped PS4, go back and follow the [directions in PS4 for making sure you have all right libraries installed](https://github.com/CSCI-2349-F23/ps4#part-0-installing-libraries). You will complete the problem set in the notebook.
 
 ---
 
 ## Problem Set 6
-You will complete PS6 on Google Colab. [Follow this link](https://colab.research.google.com/drive/15bNO-v_zua-4rbhqOv2yNt-9gBXeUDaL?usp=sharing) to a Colab file, and then follow the directions in the Colab file to make your own copy of the file in your Google Drive. Then continue to follow the directions and complete the assignment.
+You will complete PS6 on Google Colab. [Follow this link](https://colab.research.google.com/drive/15bNO-v_zua-4rbhqOv2yNt-9gBXeUDaL?usp=sharing) to the Colab file called `ps6.ipynb`, and then follow the directions in the Colab file to make your own copy of the file in your Google Drive. Then continue to follow the directions and complete the assignment.
 
 ---
 
 ## What to submit
-1. Download your completed ps6.ipynb from Colab to this directory.
+1. Download your completed `ps6.ipynb` from Colab to this directory.
 2. Make sure you have these items in this directory *plus* your directory full of Wikipedia text that you created in Step 1, above.
 ```
 allcontempo.txt
@@ -70,10 +70,10 @@ ps5.ipynb
 ps6.ipynb
 README
 ```
-Note: If you chose to do only one of the two problem sets, you can just delete that notebook from the directory.
+Note: If you chose to do only one of the two problem sets, only include that `pynb` file in your submission.
 
 3. Tar and zip up the directory, calling it `ps6.tgz`.
-4. Upload that file to Canvas.
+4. Upload that file to Canvas. If you are completing both problem sets, submit the same `.tgz` to both assignments on Canvas. If you are only completing one problem, upload the `.tgz` file only to the assignment you are completing.
 
 These assignments are due November 27 at 11:59pm EST.
 
