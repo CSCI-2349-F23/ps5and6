@@ -72,7 +72,7 @@ README
 ```
 Note: If you chose to do only one of the two problem sets, only include that `pynb` file in your submission.
 
-3. Tar and zip up the directory, calling it `ps6.tgz`.
+3. Tar and zip up the directory, calling it `ps5and6.tgz`.
 4. Upload that file to Canvas. If you are completing both problem sets, submit the same `.tgz` to both assignments on Canvas. If you are only completing one problem, upload the `.tgz` file only to the assignment you are completing.
 
 These assignments are due November 27 at 11:59pm EST.
